@@ -1,0 +1,18 @@
+/* Styles for container */
+.container {
+    max-width: 800px; /* Increased max-width */
+    margin: 20px auto; /* Added margin on all sides */
+    padding: 30px; /* Increased padding */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Changed font family */
+    border: 1px solid #ccc; /* Added border */
+    border-radius: 10px; /* Added border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow */
+}
+
+/* Styles for paragraphs */
+p {
+    margin: 10px 0; /* Increased margin */
+    padding: 10px; /* Increased padding */
+    line-height: 1.6; /* Adjusted line height */
+    color: #333; /* Changed text color */
+}
